@@ -1043,6 +1043,15 @@ nav button:active {
     text-align: center !important;
     color: rgba(21, 20, 57, 0.4);
   }
+  
+  .show-case .card-title {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center !important;
+    color: rgba(21, 20, 57, 0.4);
+  }
 
   .sc-p {
     padding: 0;
